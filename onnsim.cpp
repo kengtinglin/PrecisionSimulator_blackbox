@@ -6,8 +6,7 @@ using namespace std;
 
 
 SC_MODULE(PrecisionSimulator)
-{
-    //const int arg_num; 
+{ 
     char **cmd_;
 
     SC_HAS_PROCESS(PrecisionSimulator);
